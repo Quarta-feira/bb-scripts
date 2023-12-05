@@ -1,0 +1,7 @@
+async function main(ns) {
+  await ns.share();
+}
+export {
+  main
+};
+//# sourceMappingURL=data:application/json;base64,ewogICJ2ZXJzaW9uIjogMywKICAic291cmNlcyI6IFsiLi4vc3JjL3NoYXJlLnRzIl0sCiAgInNvdXJjZXNDb250ZW50IjogWyJpbXBvcnQge05TfSBmcm9tIFwiQG5zXCI7XG5cbmV4cG9ydCBhc3luYyBmdW5jdGlvbiBtYWluKG5zOiBOUyk6IFByb21pc2U8dm9pZD4ge1xuICAgIGF3YWl0IG5zLnNoYXJlKCk7XG59XG4iXSwKICAibWFwcGluZ3MiOiAiQUFFQSxlQUFzQixLQUFLLElBQXVCO0FBQzlDLFFBQU0sR0FBRyxNQUFNO0FBQ25COyIsCiAgIm5hbWVzIjogW10KfQo=
