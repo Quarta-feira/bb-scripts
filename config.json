@@ -1,6 +1,0 @@
-{
-  "scriptsFolder": "src",
-  "buildFolder": "dist",
-  "port": 12525,
-  "quiet": true
-}
